@@ -1,33 +1,9 @@
    # :gem:  &nbsp;  XSS-LOADER TOOLS  &nbsp;  :gem:
 
-<img src="https://i.imgur.com/RvwHNfS.png" width="60%"></img>
-
-
-
-#### Written by Hulya Karabag 
-#### Version 1.0.0
 All in one tools for **XSS PAYLOAD GENERATOR -XSS SCANNER-XSS DORK FINDER**
 
-Instagram: [Hulya Karabag](https://www.instagram.com/tmrswrr/)
-##  :camera: Screenshots  :camera:
-
-<img src="https://i.imgur.com/mnRkb1b.png" width="32%"></img>
-<img src="https://i.imgur.com/8vdFrl6.png" width="32%"></img>
-<img src="https://i.imgur.com/E7t30Cf.png" width="32%"></img>
-<img src="https://i.imgur.com/jMGDl5C.png" width="32%"></img>
-<img src="https://i.imgur.com/fwAETe2.png" width="32%"></img>
-<img src="https://i.imgur.com/jmBmGH1.png" width="32%"></img>
-
-
-
-
-
-## 👇 :love_letter:  How to use  :love_letter: 👇
-
-[![How to use](https://i.imgur.com/l44jOXW.png)](https://www.youtube.com/watch?v=ys_a5yx1hmY)
-
-
-
+## Screenshot 
+![Screenshot](https://i.postimg.cc/NBhz23wS/Screenshot-20200501-014953-Termux.jpg) 
 
 ## 📒 Read Me 📒
 
@@ -35,7 +11,6 @@ Instagram: [Hulya Karabag](https://www.instagram.com/tmrswrr/)
 * Select default payload tags from parameter or  write your payload
 * It makes xss inj. with Xss Scanner parameter
 * It finds vulnerable sites url with Xss Dork Finder parameter
-
 
 ##  :cd: Installation  :cd:
 ### Installation with requirements.txt
@@ -52,9 +27,7 @@ pip3 install -r requirements.txt
 python3 payloader.py
 ```
 
-
 ## 🗃️  Features  🗃️
-
 
 #### *Basic Payload
 
@@ -79,7 +52,6 @@ Sets default parameter to :```<svg onload=alert('1')>```
 #### *Enter Your Payload
 
 Encodes payload writed by user
-
 
 #### *Payload Generator Parameter
 
@@ -136,7 +108,6 @@ Selected for scanning payload list
 
 Results will be added in "vulnpayload.txt" after scanning.
 
-
 #### *Xss Dork Finder
 
 First enter the dork for searching:
@@ -150,19 +121,9 @@ Results will be saved in "dork.txt" after scanning.
 
 - Module errors
 
-**Important:**
-
-If you want to use tool for python3 installed on Windows download below link:
-
-https://github.com/capture0x/XSS-LOADER-for-WINDOWS
-
-
-## Bugs and enhancements
-
-For bug reports or enhancements, please open an [issue](https://github.com/capture0x/XSS-LOADER/issues) here.
-
-## Support and Donations
-
-Contact us with email [capture0x@mail.com.tr](mailto:capture0x@mail.com.tr?Subject=XSS-LOADER)
+### My Accounts
+* [TELEGRAM](https://t.me/termuxxhacking)
+* [FACEBOOK](https://www.facebook.com/termuxxhacking)
+* [INSTAGRAM](https://instagram.com/termux_hacking)
 
 **Copyright 2020**
