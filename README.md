@@ -1,4 +1,4 @@
-   # :gem:  &nbsp;  XSS-LOADER TOOLS  &nbsp;  :gem:
+   # :gem:  &nbsp;  XSS-LOAD TOOL  &nbsp;  :gem:
 
 All in one tools for **XSS PAYLOAD GENERATOR -XSS SCANNER-XSS DORK FINDER**
 
