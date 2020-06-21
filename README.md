@@ -1,4 +1,4 @@
-![logo](https://i.postimg.cc/7Zgm85Pp/poster6-21-174831.png) 
+![logo](https://i.postimg.cc/85rb4cYK/20200621-175301.png) 
 
 ## Screenshot 
 ![Screenshot](https://i.postimg.cc/NBhz23wS/Screenshot-20200501-014953-Termux.jpg) 
