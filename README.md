@@ -120,7 +120,7 @@ Results will be saved in "dork.txt" after scanning.
 - Module errors
 
 ### My Accounts
-* [TELEGRAM](https://t.me/termuxxhacking)
+* [TELEGRAM](https://t.me/DefacErr)
 * [FACEBOOK](https://www.facebook.com/termuxxhacking)
 * [INSTAGRAM](https://instagram.com/termux_hacking)
 
